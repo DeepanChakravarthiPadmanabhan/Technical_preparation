@@ -1,0 +1,25 @@
+<annotation>
+  <folder/>
+  <filename>img_231.jpg</filename>
+  <database/>
+  <annotation/>
+  <image/>
+  <size>
+    <height>480</height>
+    <width>640</width>
+    <depth>3</depth>
+  </size>
+  <segmented/>
+  <object>
+    <name>1</name>
+    <pose/>
+    <truncated/>
+    <difficult/>
+    <bndbox>
+      <xmin>158.38916256157634</xmin>
+      <ymin>59.5911330049261</ymin>
+      <xmax>395.33497536945805</xmax>
+      <ymax>354.66502463054184</ymax>
+    </bndbox>
+  </object>
+</annotation>

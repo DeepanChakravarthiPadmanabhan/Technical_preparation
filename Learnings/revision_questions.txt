@@ -1,0 +1,49 @@
+Interview prep:
+
+BN
+Overfitting
+Weight decay
+SGD- Backprop
+Why CNN, why not NN?
+Optimizers - Adam
+Momentum
+RESNET
+DENSENET
+INCEPTION
+XCEPTION
+Sensitivity/Recall
+Specificity
+Accuracy
+F1
+Build RESNET from scratch, Code RESNET block
+Train a CNN from scratch for multiclass classification problem
+Eigen values, Eigen vectors
+PCA
+MRC slides on SVD, Linear algebra basics
+
+
+Gini:
+# Personality
+what is exciting to you much
+what is the least exciting thing to you
+How does your supervisors describe you the best
+Tell some situation where you worked independently
+Biggest challenge that you faced 
+
+# Written test
+Duck typing
+Loggers in python- Are they capable of multiple handlers?
+Ordered dict in python
+SOLID - Design pattern
+
+# Technical round + Live coding
+Explain CNN
+Number of learnable parameters in CNN
+Why dilated conv - global features and computation is relatively less but gives global
+Output filter size
+Last layer Softmax and output of relu to softmax
+Palindrome
+Redundancy remover
+Overfitting
+Data augmentation methods
+If one class performs very well compared to an other class, what might be the reason for one class's worst performance given the data distribution is the same?
